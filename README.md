@@ -1,4 +1,4 @@
-# CineQuarantine
+# Codenception.CineQuarantine
 Simple app that uses flat files as data source
 
 🚧 Work in progress. It can't be used yet! 🚧
